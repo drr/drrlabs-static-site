@@ -1,0 +1,15 @@
+Experimenting with static sites
+=====
+
+This is an experiment to deliver a seemingly dynamic site by using web
+services and AJAX rather than a dynamic web server. The site is written
+using the [jekyll][] publishing tools, runs mostly on [Amazon Web
+Services][AWS] systems, and follows the pattern of [some][mojombo]
+[other][werner] [sites][ascarter-github].
+
+[jekyll]: https://github.com/mojombo/jekyll
+[AWS]: http://aws.amazon.com/
+[mojombo]: http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html
+[werner]: http://www.allthingsdistributed.com/2011/08/Jekyll-amazon-s3.html
+[ascarter-github]: https://github.com/ascarter/ascarter.github.com
+
